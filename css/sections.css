@@ -40,7 +40,7 @@
 
 .service > .section-bg:after {
 
-    background-position: center -92px;
+
 }
 
 .facts > .section-bg:after {
@@ -140,7 +140,7 @@
 
 .section_list-post {
 	padding-top: 106px;
-	padding-bottom: 60px;
+	padding-bottom: 71px;
 }
 .section_list-post .ui-subtitle-block_mod-b {
 	margin-bottom: 56px;
@@ -157,6 +157,7 @@
 .section_map:before {
 	bottom: -30px;
 	background: url('../media/bg/7.jpg') no-repeat 100% 100%;
+    z-index: -1;
 }
 .section_map .ui-title-inner {
 	margin-top: 43px;
